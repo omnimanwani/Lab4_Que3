@@ -66,7 +66,7 @@ To install all required libraries in your environment, run:
 ```
 ## Results
 
-The Bayesian Network was trained on the thyroid dataset and achieved an accuracy >85% accuracy goal. This demonstrates the effectiveness of the Bayesian Network for medical diagnosis in this context.
+The Bayesian Network was trained on the thyroid dataset and achieved an accuracy 95.35% accuracy which is greater tha 85% goal. This demonstrates the effectiveness of the Bayesian Network for medical diagnosis in this context.
 
 ## Future Improvements
 
